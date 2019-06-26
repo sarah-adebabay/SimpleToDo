@@ -21,13 +21,9 @@ The following **required** functionality is completed:
 * [X] User can **successfully add and remove items** from the todo list
 * [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
-The following **stretch** features are implemented:
-
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
-
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] User is congratulated after finishing removing a task from their to-do list!
 
 ## Video Walkthrough
 
@@ -39,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was difficult creating this app because the instructions were not up to date with the current version of Andriod Studio. One of the issues I encountered was losing my files on my local repository, but luckily, I was able to commit to my github before!
 
 ## License
 
