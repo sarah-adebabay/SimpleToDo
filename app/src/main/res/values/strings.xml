@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Let\'s Take on Life with a Plan!</string>
+    <string name="add_btn">Add</string>
+    <string name="enter_task">Add a new task here.</string>
+</resources>
